@@ -1,0 +1,22 @@
+{
+  "name": "string-calculator",
+  "version": "1.0.0",
+  "description": "string calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandyksit/stringcalulator.git"
+  },
+  "author": "Sandeep Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandyksit/stringcalulator/issues"
+  },
+  "homepage": "https://github.com/sandyksit/stringcalulator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
